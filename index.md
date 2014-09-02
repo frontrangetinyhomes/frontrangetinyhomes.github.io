@@ -9,7 +9,7 @@ tagline: ((think bigger -- in tiny spaces!))
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 -->
 
-## Welcome!
+## Welcome! Tiny House Enthusiasts, Unite! :)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
 hendrerit dui quis lacus consectetur scelerisque. Suspendisse
