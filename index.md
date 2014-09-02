@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Front Range Tiny Homes
-tagline: ((think bigger -- in tiny spaces!))
+layout: default
+title: ((think bigger -- in tiny spaces!))
+tagline: 
 ---
 {% include JB/setup %}
 
@@ -26,14 +26,28 @@ risus. Integer aliquam varius malesuada. Ut et fermentum erat, quis
 porta risus. Sed lobortis eget tortor ac porta. Pellentesque hendrerit
 arcu lorem, eu bibendum ipsum accumsan ut.
 
-Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w
-przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez
-nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć
-wieków później zaczął być używany przemyśle elektronicznym, pozostając
-praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz
-z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a
-ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem
-przeznaczonym do realizacji druków na komputerach osobistych...
+![FRTH logo](/img/frth_quickLogo-20140901a_620x110.png)
+
+Futuryści opisywali w książkach jak to w którymś tam roku wszystko
+zrobią za nas roboty. Że człowiek nie będzie już musiał
+pracować. Wydaje mi się że jesteśmy już na poziomie technologicznym
+który jest temu bliski. Kwestią jest zmniejszenie potrzeb. Wmawia się
+nam że wystarczy zmienić żarówkę na energooszczędną czy segregować
+odpady mokre i suche.  I wszystko będzie, ok. Nic nie musisz zmieniać
+w swoim życiu, a oszczędnościówka da ci czyste sumienie. Bylebyś
+pracował i konsekwentnie zwiększał swoje zapotrzebowanie na
+przedmioty, tym razem “ekologiczne”.  Tym czasem potężne fabryki
+dziennie zużywają tyle prądu co ty przez całe życie. Otóż przykro mi
+ale nie wystarczy kupić herbatę z nadrukiem medytującej smukłej
+kobiety by osiągnąć spokój umysłu. Albo kawę by mieć siłę do życia. To
+nie kolejny produkt nas uratuje ale ich brak!  Z tego myślenia wynikną
+pomysł wybudowania i zamieszkania w małym domku na kółkach. By
+uprościć sobie życie.
+
+
+![FRTH tinyHouse1](/img/tinyHouse_hobbitVermont-300x.jpg)
+![FRTH tinyHouse1](/img/tinyHouse_plans1-300x.png)
+![FRTH tinyHouse1](/img/tinyHouse_withHottubLOL-300x.jpg)
 
 
 
